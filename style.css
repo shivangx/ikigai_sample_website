@@ -1,0 +1,18 @@
+.navbar{
+    border-bottom: #3183ba solid 4px ;
+}
+
+#authors img{
+    margin-top: -80px;
+    width: 100px;
+    height: 100px;
+}
+
+#services .card:hover{
+background:#2d3436;
+color:#ffff;
+}
+body
+{
+    background: linear-gradient(to right bottom,#e1e6e6,#dfe0e6,#939498);
+}
